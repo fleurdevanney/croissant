@@ -8,3 +8,8 @@ a {
 a {
   display: block;
 }
+
+img {
+  display: block;
+  margin: auto;
+}
