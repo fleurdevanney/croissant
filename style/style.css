@@ -9,7 +9,8 @@ a {
   display: block;
 }
 
-img {
+.croissant-image {
   display: block;
   margin: auto;
+  max-width: 50%;
 }
